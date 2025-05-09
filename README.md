@@ -2,7 +2,7 @@
 
 ## Overview
 
-Would You Rather is a command-line game that presents users with difficult hypothetical choices between two options. The game tracks and displays statistics about how other players might have answered the same question, adding a competitive and social element to the experience. and it's the first terminal application that supports would you rather 
+Would You Rather is a command-line game that presents users with difficult hypothetical choices between two options. The game tracks and displays statistics about how other players might have answered the same question, adding a competitive and social element to the experience. 
 
 ## Features
 
